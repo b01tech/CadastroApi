@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Cadastro.Communication\Cadastro.Communication.csproj" />
     <ProjectReference Include="..\Cadastro.Domain\Cadastro.Domain.csproj" />
+    <ProjectReference Include="..\Cadastro.Exceptions\Cadastro.Exception.csproj" />
     <ProjectReference Include="..\Cadastro.Exceptions\Cadastro.Exceptions.csproj" />
   </ItemGroup>
 

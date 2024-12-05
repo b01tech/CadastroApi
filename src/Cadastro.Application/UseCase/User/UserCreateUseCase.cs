@@ -25,7 +25,7 @@ public class UserCreateUseCase
         var result = validator.Validate(request);
         if (result.IsValid == false)
         {
-            throw new Exception();
+            throw new System.Exception();
         }
 
     }

@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Infra", "src\Cadas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.API", "src\Cadastro.API\Cadastro.API.csproj", "{985E08D7-35B8-439B-87D6-050B00A0F0C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Exceptions", "src\Cadastro.Exceptions\Cadastro.Exceptions.csproj", "{909DC179-9D28-4C99-AB3E-2A899EC37325}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Exception", "src\Cadastro.Exceptions\Cadastro.Exception.csproj", "{909DC179-9D28-4C99-AB3E-2A899EC37325}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro.Communication", "src\Cadastro.Communication\Cadastro.Communication.csproj", "{4013815A-85F2-46F1-A267-9B4555768085}"
 EndProject
