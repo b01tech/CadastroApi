@@ -13,7 +13,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Cadastro.Application\Cadastro.Application.csproj" />
+    <ProjectReference Include="..\Cadastro.Communication\Cadastro.Communication.csproj" />
     <ProjectReference Include="..\Cadastro.Exceptions\Cadastro.Exceptions.csproj" />
+    <ProjectReference Include="..\Cadastro.Infra\Cadastro.Infra.csproj" />
   </ItemGroup>
 
 </Project>

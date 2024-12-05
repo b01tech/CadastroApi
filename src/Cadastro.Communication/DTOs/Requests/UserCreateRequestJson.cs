@@ -1,7 +1,7 @@
 ﻿using Cadastro.Domain.Entities.Enums;
+namespace Cadastro.API.DTOs.Requests;
 
-namespace Cadastro.Domain.Entities;
-public class User : BaseEntity
+public class UserCreateRequestJson
 {
     public string Name { get; set; } = string.Empty;
     public string Email { get; set; } = string.Empty;
